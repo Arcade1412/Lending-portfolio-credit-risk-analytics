@@ -32,7 +32,7 @@ Domain: Retail Lending / Consumer Finance
 ## Tools Used
 
 - SQL
-- Tableau
+- Power BI
 - Microsoft Excel
 
 ---
