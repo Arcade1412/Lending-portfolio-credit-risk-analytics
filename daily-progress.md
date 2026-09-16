@@ -47,3 +47,5 @@
 - Data Visualization
 - Interactive Filtering
 - Credit Risk Analytics
+
+Learning 
